@@ -4,8 +4,7 @@
       "compnaySubTitle": " hello ssi ",
       "companyLogo": "https://www.csir.co.za/sites/all/themes/csir/logo.png",
       "companySubLogo":
-          "https://www.csir.co.za/sites/default/files/covid-f.png",
-      "color": "#0xFF00BCD4"
+          "https://www.csir.co.za/sites/default/files/covid-f.png"
     },
     {
       "companyTitle": "Anime",
@@ -13,16 +12,14 @@
       "companyLogo":
           "https://cdn-icons-png.flaticon.com/128/1881/1881021.png",
       "companySubLogo":
-          "https://cdn-icons-png.flaticon.com/128/5611/5611024.png",
-      "color": "#0xFF00BFA5"
+          "https://cdn-icons-png.flaticon.com/128/5611/5611024.png"
     },
     {
       "companyTitle": "CSIR",
       "compnaySubTitle": " hello ssi ",
       "companyLogo": "https://www.csir.co.za/sites/all/themes/csir/logo.png",
       "companySubLogo":
-          "https://www.csir.co.za/sites/default/files/covid-f.png",
-      "color": "#0xFF00BCD4"
+          "https://www.csir.co.za/sites/default/files/covid-f.png"
     },
     {
       "companyTitle": "Anime",
@@ -30,8 +27,7 @@
       "companyLogo":
           "https://cdn-icons-png.flaticon.com/128/1881/1881021.png",
       "companySubLogo":
-          "https://cdn-icons-png.flaticon.com/128/5611/5611024.png",
-      "color": "#0xFF00BFA5"
+          "https://cdn-icons-png.flaticon.com/128/5611/5611024.png"
     },
     {
       "companyTitle": "Anime",
@@ -39,7 +35,6 @@
       "companyLogo":
           "https://cdn-icons-png.flaticon.com/128/1881/1881021.png",
       "companySubLogo":
-          "https://cdn-icons-png.flaticon.com/128/5611/5611024.png",
-      "color": "#0xFF00BFA5"
+          "https://cdn-icons-png.flaticon.com/128/5611/5611024.png"
     }
 ]
