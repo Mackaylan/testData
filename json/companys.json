@@ -1,37 +1,42 @@
 [
     {
       "companyTitle": "CSIR",
-      "compnaySubTitle": " hello ssi ",
+      "companySubTitle": "hello ssi",
+      "companyDescription":"Self sovereign Identity",
       "companyLogo": "https://www.csir.co.za/sites/all/themes/csir/logo.png",
       "companySubLogo":
           "https://www.csir.co.za/sites/default/files/covid-f.png"
     },
     {
-      "companyTitle": "Anime",
-      "compnaySubTitle": " hello anime ",
+      "companyTitle": "Bank",
+      "companySubTitle": "Bankers",
+      "companyDescription":"Start up banking company",
       "companyLogo":
-          "https://cdn-icons-png.flaticon.com/128/1881/1881021.png",
+          "https://cdn-icons-png.flaticon.com/128/2830/2830289.png",
       "companySubLogo":
-          "https://cdn-icons-png.flaticon.com/128/5611/5611024.png"
+          "https://cdn-icons-png.flaticon.com/128/1086/1086741.png"
     },
     {
-      "companyTitle": "CSIR",
-      "compnaySubTitle": " hello ssi ",
-      "companyLogo": "https://www.csir.co.za/sites/all/themes/csir/logo.png",
+      "companyTitle": "Food",
+      "companySubTitle": "hello food lovers",
+      "companyDescription":"Start up food company",
+      "companyLogo": "https://www.flaticon.com/free-icon/hamburger_3075977",
       "companySubLogo":
-          "https://www.csir.co.za/sites/default/files/covid-f.png"
+          "https://cdn-icons-png.flaticon.com/128/685/685352.png"
     },
     {
-      "companyTitle": "Anime",
-      "compnaySubTitle": " hello anime ",
+      "companyTitle": "Gamez",
+      "companySubTitle": "hello gamers",
+      "companyDescription":"Start up gaming company",
       "companyLogo":
-          "https://cdn-icons-png.flaticon.com/128/1881/1881021.png",
+          "https://cdn-icons-png.flaticon.com/128/82/82011.png",
       "companySubLogo":
-          "https://cdn-icons-png.flaticon.com/128/5611/5611024.png"
+          "https://cdn-icons-png.flaticon.com/128/81/81968.png"
     },
     {
       "companyTitle": "Anime",
-      "compnaySubTitle": " hello anime ",
+      "companySubTitle": "hello anime",
+      "companyDescription":"Start up",
       "companyLogo":
           "https://cdn-icons-png.flaticon.com/128/1881/1881021.png",
       "companySubLogo":
